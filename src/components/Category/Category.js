@@ -6,6 +6,12 @@ const Category = (props) => {
     return (
         <div className='category'>
             <img src={img} alt=""></img>
+            <div className='category-info'>
+                <p><b>{category}</b></p>
+                <p>Description: {description}</p>
+                <p>For age: {age}</p>
+                <p>Time required:{time} </p>
+            </div>
         </div>
     );
 };

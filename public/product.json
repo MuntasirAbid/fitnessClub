@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "catagory": "Fitness",
+        "category": "Fitness",
         "description": "Experts define physical fitness as “one's ability to execute daily activities with optimal performance, endurance, and strength with the management of disease, fatigue, and stress and reduced sedentary behavior.” This description goes beyond being able to run quickly or lift heavy weights.",
         "img": "https://ymcacf.org/wp-content/uploads/2020/06/group_ex-description_thumbnail-strength.jpg",
         "age": "25-50",
@@ -9,23 +9,23 @@
     },
     {
         "id": 2,
-        "catagory": "Rock climbing",
-        "description": "Rock climbing is the process of ascending cliffs. It involves following certain routes on a rock face requiring the use of naturally formed handholds and footholds and uses specialised equipment as a backup safety system. These guidelines apply to rock climbing on natural rock cliffs, not on artificial structures.",
+        "category": "Rock climbing",
+        "description": "Rock climbing is the process of ascending cliffs. It involves following certain routes on a rock face requiring the use of naturally formed handholds and footholds and uses specialised equipment as a backup safety system. ",
         "img": "https://www.climbfit.com.au/wp-content/uploads/2020/10/LM_181130_ClimbFitKirrawee_0086_HIGHres.jpg",
         "age": "25-40",
         "time": 20
     },
     {
         "id": 3,
-        "catagory": "Powerlifting",
-        "description": "Powerlifting is a strength sport that consists of three attempts at maximal weight on three lifts: squat, bench press, and deadlift. As in the sport of Olympic weightlifting, it involves the athlete attempting a maximal weight single-lift effort of a barbell loaded with weight plates. Powerlifting evolved from a sport known as odd lifts, which followed the same three-attempt format but used a wider variety of events, akin to strongman competition. Eventually odd lifts became standardized to the current three.",
+        "category": "Power lifting",
+        "description": "Powerlifting is a strength sport that consists of three attempts at maximal weight on three lifts: squat, bench press, and deadlift. As in the sport of Olympic weightlifting, it involves the athlete attempting a maximal weight single-lift effort of a barbell loaded with weight plates.",
         "img": "https://www.topendsports.com/sport/weight-lifting/images/deadlift-power-pd.jpg",
         "age": "25-45",
         "time": 10
     },
     {
         "id": 4,
-        "catagory": "CrossFit",
+        "category": "CrossFit",
         "description": "A form of high intensity interval training, CrossFit is a strength and conditioning workout that is made up of functional movement performed at a high intensity level. These movements are actions that you perform in your day-to-day life, like squatting, pulling, pushing etc.",
         "img": "https://cdn.shopify.com/s/files/1/0942/6160/files/crossfit-workout-for-women.jpg?v=1549031791",
         "age": "25-55",
@@ -33,7 +33,7 @@
     },
     {
         "id": 5,
-        "catagory": "Squats",
+        "category": "Squats",
         "description": "Squats increase lower body and core strength, as well as flexibility in your lower back and hips. Because they engage some of the largest muscles in the body, they also pack a major punch in terms of calories burned.",
         "img": "https://media.self.com/photos/57da2eaa46d0cb351c8c7ebc/16:9/w_1279,h_719,c_limit/correct-squat_feat.jpg",
         "age": "25-40",
@@ -41,7 +41,7 @@
     },
     {
         "id": 6,
-        "catagory": "Single-leg deadlifts",
+        "category": "Single-leg deadlifts",
         "description": "This is another exercise that challenges your balance. Single-leg deadlifts require stability and leg strength. Grab a light to moderate dumbbell to complete this move.",
         "img": "https://cdn.mos.cms.futurecdn.net/29zQ7XW3Lp8VUsnrbCiL7P.jpg",
         "age": "25-50",
