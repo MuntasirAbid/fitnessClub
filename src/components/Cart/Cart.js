@@ -9,10 +9,6 @@ const Cart = ({ cart, }) => {
         total = total + category.time;
 
     }
-
-
-
-
     return (
         <div className='cart'>
             <h1>Muntasir Al Abid</h1>
