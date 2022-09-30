@@ -5,7 +5,7 @@ import Category from '../Category/Category';
 import './Main.css';
 
 const Main = () => {
-    const [categories, setCategories] = useState([]);
+    const [categories,] = useState([]);
     const [cart, setCart] = useState([]);
 
     useEffect(() => {
