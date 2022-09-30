@@ -1,7 +1,7 @@
 import React from 'react';
 import './Category.css'
 
-const Category = ({ category, }) => {
+const Category = ({ category, handleAddToCart }) => {
 
     const { categoryName, img, description, age, time } = category;
 
