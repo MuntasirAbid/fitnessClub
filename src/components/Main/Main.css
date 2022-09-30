@@ -25,3 +25,10 @@
     row-gap: 25px;
     margin: 100px 50px;
 }
+
+@media only screen and (max-width: 688px) {
+    .category-container {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
