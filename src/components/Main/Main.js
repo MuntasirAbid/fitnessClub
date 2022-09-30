@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import logo from '../../images/fitness.webp';
+import Cart from '../Cart/Cart';
 import Category from '../Category/Category';
 import './Main.css';
 
@@ -40,10 +41,10 @@ const Main = () => {
                     }
                 </div>
                 <div className='cart'>
-                    <h1>Here it is cart</h1>
-                    <p>Selected items: {cart.length} </p>
+                    <Cart cart={cart}></Cart>
                 </div>
             </section>
+
         </div>
     );
 };
